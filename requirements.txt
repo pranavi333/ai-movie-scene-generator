@@ -1,0 +1,6 @@
+streamlit>=1.34.0
+pillow>=10.0.0
+python-dotenv>=1.0.1
+pytest>=8.0.0
+# Optional (only used if USE_OPENAI=1)
+openai>=1.40.0
